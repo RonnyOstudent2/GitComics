@@ -1,0 +1,11 @@
+body {
+    font-family: sans-serif;
+    margin: 30px;
+    background: #fafafa;
+}
+
+h1 {
+    font-family: cursive;
+    color: purple;
+    text-shadow: 3px 3px 5px yellow;
+}
